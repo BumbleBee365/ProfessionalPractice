@@ -1,5 +1,4 @@
-# ProfessionalPractice
-
+# Impact of Increasing AI Useage on Employment Opportunities for the Younger Generation
 
 # Executive Summary
 
