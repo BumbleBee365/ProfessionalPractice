@@ -36,7 +36,7 @@ Tools used for analysis are Excel and PowerBI. These are readily available tools
 
 The ETL process, figure 1, begins by extracting datasets from ONS website and importing the data into PowerBI to be reviewed and cleansed in accordance with the six core data quality dimensions as defined by DAMA; Completeness, Uniqueness, Timeliness, Validity, Accuracy and Consistency (DAMA UK, 2020)
 
-![Figure 1](images/figure1.png) 
+![Figure1](images/figure1.png) 
 
 Datasets have been reviewed for duplicates and nulls values to ensure these do not skew the analysis and any unnecessary columns removed. Initial analysis shows the data appears consistent and does not show any bias in terms of ages groups or professions. 
 
