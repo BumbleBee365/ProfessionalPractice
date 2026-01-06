@@ -75,7 +75,7 @@ PowerBI has been used for the EDA, specific visualisations chosen are discussed 
 Line charts in figure 6 demonstrate employment and unemployment rates across each age group to identify any peaks/troughs in the data. Initial findings suggest employment rates remained steady across age groups however unemployment rates have started to rise.
  
 ![Figure6](images/Figure6.png) 
- 
+
 Waterfall chart, figure 7, demonstrates which professions are changing to determine if there is correlation to professions most likely to be using AI techniques. Professional Scientific & Technical has risen each year from 2021 suggesting AI has not negatively impacted this area.
 
  ![Figure7](images/Figure7.png) 
@@ -83,7 +83,7 @@ Waterfall chart, figure 7, demonstrates which professions are changing to determ
 The bar chart in Figure 8 has been created using a custom column in PowerBI to calculate the delta between 2025 vs 2021 demonstrating a significant reduction in employment during recent years is largely due to the agricultural and the mining industry rather than data science related industries.
  
 ![Figure8](images/Figure8.png)
- 
+
 Figure 9 demonstrates the ramp up in employment in the Professional Scientific & Technical industry
  
 ![Figure9](images/Figure9.png) 
