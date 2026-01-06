@@ -4,10 +4,15 @@
 
 An article based on data from the USA discussed the impact of increasing use of AI on employment opportunities for the younger generation, specifically  ‘Corporate workers are fighting for a shrinking pool of jobs as mass lay-offs and a hiring slowdown stoke fears of a “white-collar recession”, amid mounting pressure from tariffs, slowing economic growth and artificial intelligence’ (Armstrong, 2025)
 The project aim is to determine if AI usage has significantly impacted employment in the UK. Data has been sourced from the Office of National Statistics website and cleansed allowing Exploratory Data Analysis (EDA) to identify trends for investigation. 
+
 The EDA found employment is generally rising with notable declines largely due to COVID and long-term recessions impacts. Importantly the ‘Professional Science and Technical Industry’ continues to rise.
+
 There is no evidence to support a rise in unemployment is solely related to the younger generation. There is evidence employment in older age categories continues to increase slightly.
+
 There is not enough evidence to confirm if AI is a key driver impacting employment opportunities, as the key professions identified included mining and agricultural. The analysis does provide some valuable insights employment has risen in the older generation which could be a result of an ‘ageing population’ because of declining birth rates and a tendency for people to work longer (Pretz, 2019)
+
 Spending Review 2025 has also committed to ‘Growing the artificial intelligence (AI) sector and ramping up AI adoption across the UK’ (Treasury, 2025) which aims to ‘provide jobs for the future and improve people's everyday lives’ (Technology, 2025) as opposed to removing opportunities.
+
 AI is in very early stages and the results do not currently suggest AI is a key factor at this stage.
  
 ## Data Infrastructure & Tools
@@ -31,7 +36,7 @@ Tools used for analysis are Excel and PowerBI. These are readily available tools
 
 The ETL process, figure 1, begins by extracting datasets from ONS website and importing the data into PowerBI to be reviewed and cleansed in accordance with the six core data quality dimensions as defined by DAMA; Completeness, Uniqueness, Timeliness, Validity, Accuracy and Consistency (DAMA UK, 2020)
 
-Figure 1 ETL Process
+![Figure 1](images/figure1.png) 
 
 Datasets have been reviewed for duplicates and nulls values to ensure these do not skew the analysis and any unnecessary columns removed. Initial analysis shows the data appears consistent and does not show any bias in terms of ages groups or professions. 
 
